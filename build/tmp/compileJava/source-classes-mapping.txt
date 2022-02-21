@@ -17,7 +17,7 @@ org/example/springboot/web/dto/PostsResponseDto.java
 org/example/springboot/web/dto/PostsUpdateRequestDto.java
  org.example.springboot.web.dto.PostsUpdateRequestDto
  org.example.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-org/example/springboot/web/PostsApiController.java
- org.example.springboot.web.PostsApiController
 org/example/springboot/service/posts/PostsService.java
  org.example.springboot.service.posts.PostsService
+org/example/springboot/web/PostsApiController.java
+ org.example.springboot.web.PostsApiController
