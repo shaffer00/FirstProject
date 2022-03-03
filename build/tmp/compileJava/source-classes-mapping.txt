@@ -1,5 +1,5 @@
-org/example/springboot/web/IndexController.java
- org.example.springboot.web.IndexController
+org/example/springboot/Application.java
+ org.example.springboot.Application
 org/example/springboot/domain/posts/Posts.java
  org.example.springboot.domain.posts.Posts
  org.example.springboot.domain.posts.Posts$PostsBuilder
@@ -25,5 +25,5 @@ org/example/springboot/domain/BaseTimeEntity.java
  org.example.springboot.domain.BaseTimeEntity
 org/example/springboot/web/dto/PostsResponseDto.java
  org.example.springboot.web.dto.PostsResponseDto
-org/example/springboot/Application.java
- org.example.springboot.Application
+org/example/springboot/web/IndexController.java
+ org.example.springboot.web.IndexController
