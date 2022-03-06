@@ -1,7 +1,7 @@
 org/example/springboot/domain/user/Role.java
  org.example.springboot.domain.user.Role
-org/example/springboot/Application.java
- org.example.springboot.Application
+org/example/springboot/config/auth/CustomOAuth2UserService.java
+ org.example.springboot.config.auth.CustomOAuth2UserService
 org/example/springboot/domain/posts/Posts.java
  org.example.springboot.domain.posts.Posts
  org.example.springboot.domain.posts.Posts$PostsBuilder
@@ -13,8 +13,8 @@ org/example/springboot/web/PostsApiController.java
  org.example.springboot.web.PostsApiController
 org/example/springboot/config/auth/dto/SessionUser.java
  org.example.springboot.config.auth.dto.SessionUser
-org/example/springboot/config/auth/CustomOAuth2UserService.java
- org.example.springboot.config.auth.CustomOAuth2UserService
+org/example/springboot/config/auth/LoginUserArgumentResolver.java
+ org.example.springboot.config.auth.LoginUserArgumentResolver
 org/example/springboot/web/dto/PostsSaveRequestDto.java
  org.example.springboot.web.dto.PostsSaveRequestDto
  org.example.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
@@ -24,9 +24,8 @@ org/example/springboot/service/posts/PostsService.java
  org.example.springboot.service.posts.PostsService
 org/example/springboot/web/HelloController.java
  org.example.springboot.web.HelloController
-org/example/springboot/config/auth/dto/OAuthAttributes.java
- org.example.springboot.config.auth.dto.OAuthAttributes
- org.example.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+org/example/springboot/web/IndexController.java
+ org.example.springboot.web.IndexController
 org/example/springboot/web/dto/PostsUpdateRequestDto.java
  org.example.springboot.web.dto.PostsUpdateRequestDto
  org.example.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
@@ -45,7 +44,10 @@ org/example/springboot/config/WebConfig.java
  org.example.springboot.config.WebConfig
 org/example/springboot/config/auth/LoginUser.java
  org.example.springboot.config.auth.LoginUser
-org/example/springboot/config/auth/LoginUserArgumentResolver.java
- org.example.springboot.config.auth.LoginUserArgumentResolver
-org/example/springboot/web/IndexController.java
- org.example.springboot.web.IndexController
+org/example/springboot/config/auth/dto/OAuthAttributes.java
+ org.example.springboot.config.auth.dto.OAuthAttributes
+ org.example.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+org/example/springboot/config/JpaConfig.java
+ org.example.springboot.config.JpaConfig
+org/example/springboot/Application.java
+ org.example.springboot.Application
