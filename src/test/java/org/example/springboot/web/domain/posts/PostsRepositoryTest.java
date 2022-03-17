@@ -1,5 +1,4 @@
 package org.example.springboot.web.domain.posts;
-import javafx.geometry.Pos;
 import org.example.springboot.domain.posts.Posts;
 import org.example.springboot.domain.posts.PostsRepository;
 import org.junit.jupiter.api.AfterEach;
