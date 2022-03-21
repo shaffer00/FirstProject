@@ -36,8 +36,8 @@ org/example/springboot/domain/user/User.java
  org.example.springboot.domain.user.User$UserBuilder
 org/example/springboot/domain/BaseTimeEntity.java
  org.example.springboot.domain.BaseTimeEntity
-org/example/springboot/config/auth/SecurityConfig.java
- org.example.springboot.config.auth.SecurityConfig
+org/example/springboot/Application.java
+ org.example.springboot.Application
 org/example/springboot/web/dto/PostsResponseDto.java
  org.example.springboot.web.dto.PostsResponseDto
 org/example/springboot/config/WebConfig.java
@@ -49,5 +49,7 @@ org/example/springboot/config/auth/dto/OAuthAttributes.java
  org.example.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 org/example/springboot/config/JpaConfig.java
  org.example.springboot.config.JpaConfig
-org/example/springboot/Application.java
- org.example.springboot.Application
+org/example/springboot/web/ProfileController.java
+ org.example.springboot.web.ProfileController
+org/example/springboot/config/auth/SecurityConfig.java
+ org.example.springboot.config.auth.SecurityConfig
